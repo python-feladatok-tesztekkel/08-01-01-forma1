@@ -1,2 +1,3 @@
-# 00-00-00-ures-feladat
+#  08-01-01-forma1
+
 Python feladat automatikus pontozással
