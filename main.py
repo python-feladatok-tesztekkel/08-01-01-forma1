@@ -18,5 +18,5 @@ def feladat03() -> int:
 # Adatok a fájlból
 v:Verseny=Verseny("Alonso,256;Hemilton,276;Verstappen,289;Bottas,267;Rickardo,282")
 
-# Írja ide a feladat megoldását
+# Írje írja a feladat megoldását
 
