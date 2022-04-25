@@ -8,6 +8,6 @@ import main
 
 class TestOsszeg(TestCase):
     def test_feladat01(self):
-        aktualis = main.feladat01()
-        elvart = 289
-        self.assertEqual(elvart, aktualis, "Nem jól határozta meg a sebességek átlagát")
+        aktualis = main.feladat02()
+        elvart = 274
+        self.assertEqual(elvart, aktualis, "Nem jól határozta meg a legnagyobb sebességet!")
