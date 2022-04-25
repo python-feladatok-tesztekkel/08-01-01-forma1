@@ -36,7 +36,6 @@ class Verseny:
             if (self.eredmenyek[index].maxsebesseg<min):
                 min = self.eredmenyek[index].maxsebesseg
         return min
-rn 0
 
 
 
