@@ -6,8 +6,8 @@ parent_dir = os.path.dirname(current_dir)
 sys.path.insert(0, parent_dir)
 import main
 
-class TestOsszeg(TestCase):
-    def test_feladat01(self):
+class TestOOP3(TestCase):
+    def test_feladat03(self):
         aktualis = main.feladat03()
         elvart = 256
         self.assertEqual(elvart, aktualis, "Nem jól határozta meg a legkisebb sebességet!")
